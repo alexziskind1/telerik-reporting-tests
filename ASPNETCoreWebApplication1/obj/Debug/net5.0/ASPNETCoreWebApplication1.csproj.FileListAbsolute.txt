@@ -1,0 +1,7 @@
+C:\Users\alex\source\repos\ReportingTests\ASPNETCoreWebApplication1\obj\Debug\net5.0\ASPNETCoreWebApplication1.csprojAssemblyReference.cache
+C:\Users\alex\source\repos\ReportingTests\ASPNETCoreWebApplication1\obj\Debug\net5.0\ASPNETCoreWebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex\source\repos\ReportingTests\ASPNETCoreWebApplication1\obj\Debug\net5.0\ASPNETCoreWebApplication1.AssemblyInfoInputs.cache
+C:\Users\alex\source\repos\ReportingTests\ASPNETCoreWebApplication1\obj\Debug\net5.0\ASPNETCoreWebApplication1.AssemblyInfo.cs
+C:\Users\alex\source\repos\ReportingTests\ASPNETCoreWebApplication1\obj\Debug\net5.0\ASPNETCoreWebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\alex\source\repos\ReportingTests\ASPNETCoreWebApplication1\obj\Debug\net5.0\ASPNETCoreWebApplication1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alex\source\repos\ReportingTests\ASPNETCoreWebApplication1\obj\Debug\net5.0\ASPNETCoreWebApplication1.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alex\\source\\repos\\ReportingTests\\BlazorServerApp1\\BlazorServerApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alex\\source\\repos\\ReportingTests\\BlazorServerApp1\\BlazorServerApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alex\\source\\repos\\ReportingTests\\BlazorServerApp1\\BlazorServerApp1.csproj",
+        "projectName": "BlazorServerApp1",
+        "projectPath": "C:\\Users\\alex\\source\\repos\\ReportingTests\\BlazorServerApp1\\BlazorServerApp1.csproj",
+        "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alex\\source\\repos\\ReportingTests\\BlazorServerApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\alex\\source\\telerik.ui.for.blazor.2.21.1.commercial": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.telerik.com/nuget": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Telerik.ReportViewer.Blazor.Trial": {
+              "target": "Package",
+              "version": "[15.0.21.120, )"
+            },
+            "Telerik.Reporting.OpenXmlRendering.Trial": {
+              "target": "Package",
+              "version": "[15.0.21.120, )"
+            },
+            "Telerik.Reporting.Services.AspNetCore.Trial": {
+              "target": "Package",
+              "version": "[15.0.21.120, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

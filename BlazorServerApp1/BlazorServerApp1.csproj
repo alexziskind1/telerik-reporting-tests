@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.0" />
+    <PackageReference Include="Telerik.Reporting.OpenXmlRendering.Trial" Version="15.0.21.120" />
+    <PackageReference Include="Telerik.Reporting.Services.AspNetCore.Trial" Version="15.0.21.120" />
+    <PackageReference Include="Telerik.ReportViewer.Blazor.Trial" Version="15.0.21.120" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Telerik.Reporting.Services.WebApi">
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Progress\Telerik Reporting R1 2021\Bin\Telerik.Reporting.Services.WebApi.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="wwwroot\Reports\Barcodes Report.trdp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\Reports\Product Line Sales.trdp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Update="wwwroot\Reports\Report1.trdp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
