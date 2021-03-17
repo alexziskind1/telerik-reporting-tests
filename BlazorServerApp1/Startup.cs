@@ -52,7 +52,7 @@ namespace BlazorServerApp1
                     HostAppId = "Core31BlazorDemo",
                     Storage = new FileStorage(),
                     ReportSourceResolver = new UriReportSourceResolver(
-                        System.IO.Path.Combine(sp.GetService<IWebHostEnvironment>().ContentRootPath, "..", "..", "..", "..", "Report Designer", "Examples")),
+                        System.IO.Path.Combine(sp.GetService<IWebHostEnvironment>().WebRootPath, "Reports")),
                 });
         }
 
